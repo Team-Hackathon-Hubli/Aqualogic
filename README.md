@@ -8,7 +8,6 @@
 - Shubham Bagodi
 - Raghavendra Urankar
 - Hruishikesh Karamadi
-- Shreya Ningalgol
 
 ---
 
@@ -61,8 +60,6 @@ AquaLogic is an IoT-powered early warning and monitoring system combining multi-
 
 ---
 
-## 📦 Repository Structure
-
 
 ## 🌍 Sustainable Development Goals (SDGs)
 
@@ -109,8 +106,7 @@ AquaLogic contributes to the following UN SDGs:
 aqualogic/
 ├── code/
 │   └── main.ino
-├── docs/
-│   └── architecture.png
+├── Circuit_image.png
 ├── LICENSE
 ├── README.md
 ├── .gitignore
