@@ -56,7 +56,7 @@ AquaLogic is an IoT-powered early warning and monitoring system combining multi-
 ## 🛠️ Circuit Diagram
 
 <p align="center">
-  <img src="circuit-diagram.png" alt="Circuit Diagram" width="600"/>
+  <img src="circuit_image.png" alt="Circuit Diagram" width="600"/>
 </p>
 
 ---
