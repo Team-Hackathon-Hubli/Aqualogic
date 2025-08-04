@@ -1,1 +1,8 @@
+# This file is for the developers
 
+# Twilio for SMS alerts
+twilio==8.10.0
+# Environment variables (API keys, secrets, etc.)
+python-dotenv==1.0.1
+# HTTP requests (e.g., for Cloudflare API or webhooks)
+requests==2.31.0
