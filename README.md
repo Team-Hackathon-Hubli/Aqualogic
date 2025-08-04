@@ -51,12 +51,23 @@ AquaLogic is an IoT-powered early warning and monitoring system combining multi-
 
 ---
 
+---
+
+## 🛠️ Circuit Diagram
+
+<p align="center">
+  <img src="docs/circuit-diagram.png" alt="Circuit Diagram" width="600"/>
+</p>
+
+---
+
+## 📦 Repository Structure
+
+
 ## 🌍 Sustainable Development Goals (SDGs)
 
 AquaLogic contributes to the following UN SDGs:
 
-- **SDG 3 – Good Health and Well-being:** Protects communities by providing early warnings.
-- **SDG 6 – Clean Water and Sanitation:** Monitors floods impacting water resources.
 - **SDG 9 – Industry, Innovation and Infrastructure:** Builds resilient, scalable IoT infrastructure.
 - **SDG 11 – Sustainable Cities and Communities:** Enhances disaster resilience.
 - **SDG 13 – Climate Action:** Supports adaptation to climate-induced disasters.
