@@ -1,9 +1,9 @@
 
-# 🌊 AquaLogic – IoT-based Smart Disaster Monitoring System
+# AquaLogic – IoT-based Smart Disaster Monitoring System
 
 ---
 
-## 👥 Team Members
+## Team Members
 - Kedar Hukkeri
 - Shubham Bagodi
 - Raghavendra Urankar
@@ -11,29 +11,29 @@
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 Natural disasters like floods, gas leaks, and land vibrations are unpredictable and often deadly. Traditional detection methods are manual or delayed. There is an urgent need for timely, automated alerting systems that reduce impact and improve emergency response.
 
 ---
 
-## 💡 Solution Overview
+## Solution Overview
 AquaLogic is an IoT-powered early warning and monitoring system combining multi-sensor hardware, cloud connectivity, and real-time notifications. The system continuously tracks environmental parameters and issues instant alerts through SMS and email when hazardous thresholds are exceeded.
 
 ---
 
-## 🎯 Key Features
-- 🌊 Real-time flood level detection
-- 🏭 Gas leakage monitoring
-- 🌐 Seismic vibration sensing
-- 📱 Automatic SMS alerts via Twilio
-- ✉️ Email notifications via Gmail SMTP
-- 🔊 Local buzzer alarm for immediate awareness
-- 🖲 Manual reset button
-- ☁️ Optional dashboard deployed via Cloudflare
+## Key Features
+- Real-time flood level detection
+- Gas leakage monitoring
+- Seismic vibration sensing
+- Automatic SMS alerts via Twilio
+- Email notifications via Gmail SMTP
+- Local buzzer alarm for immediate awareness
+- Manual reset button
+- Optional dashboard deployed via Cloudflare
 
 ---
 
-## 🔧 Technologies & Components Used
+## Technologies & Components Used
 
 | Component | Purpose |
 |---|---|
@@ -52,7 +52,7 @@ AquaLogic is an IoT-powered early warning and monitoring system combining multi-
 
 ---
 
-## 🛠️ Circuit Diagram
+## Circuit Diagram
 
 <p align="center">
   <img src="circuit_image.png" alt="Circuit Diagram" width="600"/>
@@ -61,7 +61,7 @@ AquaLogic is an IoT-powered early warning and monitoring system combining multi-
 ---
 
 
-## 🌍 Sustainable Development Goals (SDGs)
+## Sustainable Development Goals (SDGs)
 
 AquaLogic contributes to the following UN SDGs:
 
@@ -71,7 +71,7 @@ AquaLogic contributes to the following UN SDGs:
 
 ---
 
-## 🚀 How to Run / Test the Project
+## How to Run / Test the Project
 
 1. **Flash ESP32:**
    - Open `code/main.ino` in Arduino IDE.
@@ -100,7 +100,7 @@ AquaLogic contributes to the following UN SDGs:
 
 ---
 
-## 📦 Repository Structure
+## Repository Structure
 
 ```
 aqualogic/
@@ -115,14 +115,14 @@ aqualogic/
 
 ---
 
-## 📃 License
+## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).  
 All dependencies are open-source with OSI-approved licenses.
 
 ---
 
-## 🏁 Acknowledgments
+## Acknowledgments
 
 - Infosys Global Hackathon 2025
 - Twilio, Arduino, and open-source communities
